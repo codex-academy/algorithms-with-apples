@@ -24,7 +24,7 @@ Use Regions mentioned in this article about [South African](https://southafrica.
 
 Use the apple bundle to create functions that use the apple bundle that you just created.
 
-> Before doing these functions think through the steps required create each function
+> Before create each function think through the steps required to create it.
 
 Create functions that:
 

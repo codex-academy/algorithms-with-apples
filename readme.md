@@ -14,7 +14,7 @@ Create an Object for trading apples.
 
 ```
 Apples are traded in bundles each bundle having a quantity, color, and a region.
-Each bundle also have cost price and a selling price.
+Each bundle also have cost price and a selling price per apple.
 ```
 
 Red, green and yellow apples are sold widely.

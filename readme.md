@@ -18,6 +18,7 @@ Each bundle also have cost price and a selling price.
 ```
 
 Red, green and yellow apples are sold widely.
+Use Regions mentioned in this article about [South African](https://southafrica.co.za/apple-production.html) apple production.
 
 ## Use the object to
 
@@ -27,13 +28,13 @@ Use the apple bundle to create functions that use the apple bundle that you just
 
 Create functions that:
 
- 	* that returns the profit/loss for a given bundle apples,
+ 	* that returns the profit/loss for a given bundle of apples,
 	* find the total income from selling several bundles of apples,
 	* find the total income/loss from selling several bundles of apples,
 	* find the total income/loss from selling several bundles of apples for yellow apples,
 	* find the total income/loss from selling several bundles of apples for any given color of apples,
-	* find the color of the most profitable apple,
-	* find the color of the least profitable apple.
+	* find the most profitable apple color,
+	* find the least profitable apple region.
 
 
 
